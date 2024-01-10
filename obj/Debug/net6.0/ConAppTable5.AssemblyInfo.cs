@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConAppTable5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1be10b971d9f39a2329f352e7f032a2141a7fe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d9b28263f9202a68c45395d15b6cde0a13d95a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConAppTable5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConAppTable5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
